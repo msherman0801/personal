@@ -2445,6 +2445,9 @@ h6 {
     position: relative;
     right: 250px; }
     @media (max-width: 1480px) {
+     .about_area {
+        margin-bottom: 30px;
+      }
       .about_area .about_img {
         right: 0; }
         .about_area .about_img img {
